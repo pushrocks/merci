@@ -1,0 +1,23 @@
+{
+  "name": "merci",
+  "version": "1.0.0",
+  "description": "programmatic feedback",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushrocks/merci.git"
+  },
+  "keywords": [
+    "programmatic",
+    "feedback"
+  ],
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pushrocks/merci/issues"
+  },
+  "homepage": "https://github.com/pushrocks/merci#readme"
+}
